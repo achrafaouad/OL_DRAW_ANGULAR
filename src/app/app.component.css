@@ -1,0 +1,26 @@
+.draw{
+    position: absolute;
+    z-index: 1;
+    width:fit-content;
+    height:fit-content;
+    }
+    .myButton {
+    margin-left: 2px;
+    margin-top: 5px;
+    background-color:white;
+    box-shadow: 0px 0px 5px rgb(140, 205, 243);
+    color: #00337C;
+    font-weight: 700;
+    text-align: center;
+    height: 25px;
+    width: 25px;
+    border-radius: 2px;
+    border: none;
+    align-items: center;
+    /* margin-top: 5px; */
+    }
+
+
+    .header{
+        background-color: bleu;
+    }
